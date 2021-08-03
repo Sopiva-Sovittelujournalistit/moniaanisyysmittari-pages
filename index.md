@@ -25,7 +25,7 @@ esittelyteksti_toka_linkkiteksti: Tutustu mittariin
 
 esittelyteksti_toka_linkki: mittari
 
-esittelyteksti_toka_kuvatiedosto: meter.png
+esittelyteksti_toka_kuvatiedosto: gear.png
 
 mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄ
 
