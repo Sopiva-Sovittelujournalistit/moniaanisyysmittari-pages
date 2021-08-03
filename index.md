@@ -17,7 +17,7 @@ esittelyteksti_eka_linkkiteksti: Lisää hankkeesta
 
 esittelyteksti_eka_linkki: hanke
 
-esittelyteksti_eka_kuvatiedosto: heart.png
+esittelyteksti_eka_kuvatiedosto: magnifier.png
 
 esittelyteksti_toka: Moniäänisyysmittari-hankkeen tärkein lähtökohta on luottamus siihen, että erilaisia näkökulmia kuuntelemalla ja yhteistä ymmärrystä lisäämällä saadaan aikaan parempaa journalismia ja laadukkaampaa julkista keskustelua.
 
