@@ -17,7 +17,7 @@ esittelyteksti_eka: The meter analyses data archives provided by media companies
 
 esittelyteksti_eka_linkkiteksti: Read more
 
-esittelyteksti_eka_linkki: /meter.html
+esittelyteksti_eka_linkki: ./meter.html
 
 esittelyteksti_eka_kuvatiedosto: magnifier.png
 
@@ -25,7 +25,7 @@ esittelyteksti_toka: The Diversity Meter project is driven by the trust in the p
 
 esittelyteksti_toka_linkkiteksti: Read more
 
-esittelyteksti_toka_linkki: /project.html
+esittelyteksti_toka_linkki: ./project.html
 
 esittelyteksti_toka_kuvatiedosto: gear.png
 
