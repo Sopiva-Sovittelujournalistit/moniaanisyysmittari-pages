@@ -19,7 +19,7 @@ esittelyteksti_eka_linkkiteksti: Read more
 
 esittelyteksti_eka_linkki: hanke
 
-esittelyteksti_eka_kuvatiedosto: heart.png
+esittelyteksti_eka_kuvatiedosto: magnifier.png
 
 esittelyteksti_toka: The Diversity Meter project is driven by the trust in the power of dialogue. We believe that better journalism and more constructive public discourse can be supported by helping people listen to different viewpoints.
 
