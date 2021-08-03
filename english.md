@@ -27,7 +27,7 @@ esittelyteksti_toka_linkkiteksti: Read more
 
 esittelyteksti_toka_linkki: mittari
 
-esittelyteksti_toka_kuvatiedosto: meter.png
+esittelyteksti_toka_kuvatiedosto: gear.png
 
 mittarin_kehittaja_otsikko: DEVELOPED BY SOPIVA
 
