@@ -15,7 +15,7 @@ esittelyteksti_eka: Selaimella käytettävällä mittarilla voi tehdä hakuja, j
 
 esittelyteksti_eka_linkkiteksti: Lisää hankkeesta
 
-esittelyteksti_eka_linkki: hanke
+esittelyteksti_eka_linkki: /hanke.html
 
 esittelyteksti_eka_kuvatiedosto: magnifier.png
 
@@ -23,7 +23,7 @@ esittelyteksti_toka: Moniäänisyysmittari-hankkeen tärkein lähtökohta on luo
 
 esittelyteksti_toka_linkkiteksti: Tutustu mittariin
 
-esittelyteksti_toka_linkki: mittari
+esittelyteksti_toka_linkki: /mittari.html
 
 esittelyteksti_toka_kuvatiedosto: gear.png
 
