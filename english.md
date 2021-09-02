@@ -51,6 +51,6 @@ sanottua_toka_nimititteli:
 
 ota_yhteytta: Contact Us
 
-css_tweaks: "#comments .right-slot {display: none}"
+css_tweaks:
 
 ---
