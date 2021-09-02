@@ -7,7 +7,7 @@ header_option: -eng
 
 herokuva: tape.jpg
 
-herovideo: AAhttps://www.moniaanisyysmittari.fi/wp-content/uploads/2019/10/bgvideo-1.mp4
+herovideo: 
 
 sitelogo: logo_moniaanisyysmittari.png
 
@@ -41,11 +41,11 @@ kehittaja_linkki: https://www.sopiva.org
 
 sanottua_otsikko: PARTNERS AT PILOT STAGE
 
-sanottua_eka_sitaatti: 
+sanottua_eka_sitaatti: Finnish Broadcasting Company (YLE)
 
 sanottua_eka_nimititteli: 
 
-sanottua_toka_sitaatti: 
+sanottua_toka_sitaatti: Finnish News Agency (STT)
 
 sanottua_toka_nimititteli: 
 
