@@ -5,7 +5,7 @@ title: Moniäänisyysmittari
 
 herokuva: tape.jpg
 
-herovideo: AAhttps://www.moniaanisyysmittari.fi/wp-content/uploads/2019/10/bgvideo-1.mp4
+herovideo:
 
 sitelogo: logo_moniaanisyysmittari.png
 
@@ -39,11 +39,11 @@ kehittaja_linkki: https://www.sopiva.org
 
 sanottua_otsikko: PILOTTIVAIHEEN KUMPPANIT
 
-sanottua_eka_sitaatti: “Moniäänisyys on tärkeimpiä journalismin ominaisuuksia. Vanha totuus kuuluu, että jos et voi mitata, et voi myöskään johtaa. Moniäänisyyden parantaminen vaatii siis hyviä mittareita, joita meiltä nyt puuttuu. Siksi olemme ilomielin mukana tässä hankkeessa.”
+sanottua_eka_sitaatti: YLEISRADIO - “Moniäänisyys on tärkeimpiä journalismin ominaisuuksia. Vanha totuus kuuluu, että jos et voi mitata, et voi myöskään johtaa. Moniäänisyyden parantaminen vaatii siis hyviä mittareita, joita meiltä nyt puuttuu. Siksi olemme ilomielin mukana tässä hankkeessa.”
 
 sanottua_eka_nimititteli: Ylen uutis- ja ajankohtaistoiminnan päätoimittaja Jouko Jokinen
 
-sanottua_toka_sitaatti: “STT:n toimituspolitiikkaan kirjattiin moniäänisyyden tavoite jo yli vuosikymmen sitten. Uutistoimiston usein pakkotahtisessa arjessa tavoite on vaikea saavuttaa, joten työkalu sen tueksi on tervetullut.”
+sanottua_toka_sitaatti: STT - “STT:n toimituspolitiikkaan kirjattiin moniäänisyyden tavoite jo yli vuosikymmen sitten. Uutistoimiston usein pakkotahtisessa arjessa tavoite on vaikea saavuttaa, joten työkalu sen tueksi on tervetullut.”
 
 sanottua_toka_nimititteli: STT:n vastaava päätoimittaja Minna Holopainen
 
