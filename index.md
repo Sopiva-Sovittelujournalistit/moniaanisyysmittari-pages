@@ -11,7 +11,9 @@ sitelogo: logo_moniaanisyysmittari.png
 
 introteksti: Mediasisältöjen data-analyysiin perustuva työkalu, jonka avulla nähdään, ketkä pääsevät ääneen journalismissa. Moniäänisyysmittari tukee journalismin ja median moniäänisyyden kehittämistä.
 
-esittelyteksti_eka: Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston monitieteistä tutkimushanketta, jossa voimansa yhdistävät journalistiikan ja tietotekniikan tutkimus, kaksi mediataloa sekä monialainen ohjausryhmä. Rahoittajana toimii Media-alan Tutkimussäätiö. Hankkeen tavoitteena on kehittää valmiiksi luonnollisen kielen käsittelymenetelmiä hyödyntävä data-analytiikkatyökalu ja kokeilla sen käyttöä työpajoissa, jotka järjestetään hankekumppaneina toimivien toimitusten kanssa.<br>Lisäksi tavoitteena on tuottaa suosituksia journalismin moniäänisyyden kehittämiseksi erilaisten toimitusten näkökulmasta. Lähtökohtana on luottamus siihen, että erilaisia ääniä ja näkökulmia kuuntelemalla ja yhteistä ymmärrystä lisäämällä saadaan aikaan parempaa journalismia ja laadukkaampaa julkista keskustelua.
+esittelyteksti_eka: |
+  Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston monitieteistä tutkimushanketta, jossa voimansa yhdistävät journalistiikan ja tietotekniikan tutkimus, kaksi mediataloa sekä monialainen ohjausryhmä. Rahoittajana toimii Media-alan Tutkimussäätiö. Hankkeen tavoitteena on kehittää valmiiksi luonnollisen kielen käsittelymenetelmiä hyödyntävä data-analytiikkatyökalu ja kokeilla sen käyttöä työpajoissa, jotka järjestetään hankekumppaneina toimivien toimitusten kanssa.
+  Lisäksi tavoitteena on tuottaa suosituksia journalismin moniäänisyyden kehittämiseksi erilaisten toimitusten näkökulmasta. Lähtökohtana on luottamus siihen, että erilaisia ääniä ja näkökulmia kuuntelemalla ja yhteistä ymmärrystä lisäämällä saadaan aikaan parempaa journalismia ja laadukkaampaa julkista keskustelua.
 
 esittelyteksti_eka_linkkiteksti: Lisää hankkeesta
 
@@ -29,7 +31,9 @@ esittelyteksti_toka_kuvatiedosto: gear.png
 
 mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄ
 
-mittarin_kehittaja_teksti: Mittarin demoversion on kehittänyt Sopiva - Sovittelujournalistit ry, jonka juuret ovat Tampereen yliopiston Sovittelujournalismi-nimisessä tutkimushankkeessa. Sopiva ry:n tiimi osallistui mittarilla Helsingin Sanomain Säätiön vuoden 2019 Uutisraivaaja-innovaatiokilpailuun ja pääsi projektilla viiden finalistin joukkoon. Uutisraivaajassa projektin kumppaneina toimivat Yleisradio ja Suomen Tietotoimisto STT.<br>Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
+mittarin_kehittaja_teksti: |
+  Mittarin demoversion on kehittänyt Sopiva - Sovittelujournalistit ry, jonka juuret ovat Tampereen yliopiston Sovittelujournalismi-nimisessä tutkimushankkeessa. Sopiva ry:n tiimi osallistui mittarilla Helsingin Sanomain Säätiön vuoden 2019 Uutisraivaaja-innovaatiokilpailuun ja pääsi projektilla viiden finalistin joukkoon. Uutisraivaajassa projektin kumppaneina toimivat Yleisradio ja Suomen Tietotoimisto STT.
+  Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
 
 kehittaja_logo: Sopiva-Bubble-logo.png
 
