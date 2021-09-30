@@ -9,9 +9,9 @@ herovideo:
 
 sitelogo: logo_moniaanisyysmittari.png
 
-introteksti: Mediasisältöjen data-analyysiin perustuva verkkopalvelu, jonka avulla nähdään, ketkä pääsevät ääneen yhteiskunnallisessa keskustelussa. Moniäänisyysmittari tukee journalismin ja median moniäänisyyden kehittämistä.
+introteksti: Mediasisältöjen data-analyysiin perustuva työkalu, jonka avulla nähdään, ketkä pääsevät ääneen journalismissa. Moniäänisyysmittari tukee journalismin ja median moniäänisyyden kehittämistä.
 
-esittelyteksti_eka: Selaimella käytettävällä mittarilla voi tehdä hakuja, jotka perustuvat mediatalojen tietokantoihin ja arkistoihin. Se mm. listaa haastatelluimmat henkilöt ja kertoo naisten ja miesten, eri puolueiden sekä haastateltujen ammattiryhmien osuuden eri medioissa ja ohjelmissa
+esittelyteksti_eka: Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston monitieteistä tutkimushanketta, jossa voimansa yhdistävät journalistiikan ja tietotekniikan tutkimus, kaksi mediataloa sekä monialainen ohjausryhmä. Rahoittajana toimii Media-alan Tutkimussäätiö. Hankkeen tavoitteena on kehittää valmiiksi luonnollisen kielen käsittelymenetelmiä hyödyntävä data-analytiikkatyökalu ja kokeilla sen käyttöä työpajoissa, jotka järjestetään hankekumppaneina toimivien toimitusten kanssa.<br>Lisäksi tavoitteena on tuottaa suosituksia journalismin moniäänisyyden kehittämiseksi erilaisten toimitusten näkökulmasta. Lähtökohtana on luottamus siihen, että erilaisia ääniä ja näkökulmia kuuntelemalla ja yhteistä ymmärrystä lisäämällä saadaan aikaan parempaa journalismia ja laadukkaampaa julkista keskustelua.
 
 esittelyteksti_eka_linkkiteksti: Lisää hankkeesta
 
@@ -19,7 +19,7 @@ esittelyteksti_eka_linkki: ./hanke.html
 
 esittelyteksti_eka_kuvatiedosto: magnifier.png
 
-esittelyteksti_toka: Moniäänisyysmittari-hankkeen tärkein lähtökohta on luottamus siihen, että erilaisia näkökulmia kuuntelemalla ja yhteistä ymmärrystä lisäämällä saadaan aikaan parempaa journalismia ja laadukkaampaa julkista keskustelua.
+esittelyteksti_toka: Selaimella käytettävällä mittarilla voi tehdä hakuja, jotka perustuvat mediatalojen uutisarkistoihin ja tietokantoihin. NLP-teknologiaa hyödyntävä mittari tunnistaa tekstistä haastateltavat henkilöt ja heihin liittyviä tietoja. Mittari mm. listaa haastatelluimmat henkilöt eri aihepiireistä sekä kertoo mm. naisten ja miesten osuuden kaikista haastatelluista, eri puolueita edustavien haastateltujen osuuden sekä erilaisten titteleiden esiintyvyyden. Hankkeen yhtenä keskeisenä kysymyksenä on pohtia, mitä ulottuvuuksia moniäänisyyden laajasta käsitteestä kannattaa mitata. Hakuominaisuuksien kehittäminen onkin kesken.
 
 esittelyteksti_toka_linkkiteksti: Tutustu mittariin
 
@@ -29,11 +29,11 @@ esittelyteksti_toka_kuvatiedosto: gear.png
 
 mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄ
 
-mittarin_kehittaja_teksti: Moniäänisyysmittarin tiimi koostuu Sopiva ry:n aktiiveista. Sopiva ry on Sovittelujournalistien yhdistys, joka kokeilee uusia tapoja tehdä journalismia. Sovittelujournalismi pyrkii ehkäisemään ja purkamaan vastakkainasetteluja yhteiskunnassa ja luomaan keskusteluyhteyden eri tavoin ajattelevien ihmisten välille. Yhdistys ei kuitenkaan halua tehdä kaikista samanmielisiä.
+mittarin_kehittaja_teksti: Mittarin demoversion on kehittänyt Sopiva - Sovittelujournalistit ry, jonka juuret ovat Tampereen yliopiston Sovittelujournalismi-nimisessä tutkimushankkeessa. Sopiva ry:n tiimi osallistui mittarilla Helsingin Sanomain Säätiön vuoden 2019 Uutisraivaaja-innovaatiokilpailuun ja pääsi projektilla viiden finalistin joukkoon. Uutisraivaajassa projektin kumppaneina toimivat Yleisradio ja Suomen Tietotoimisto STT.<br>Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
 
 kehittaja_logo: Sopiva-Bubble-logo.png
 
-kehittaja_linkkiteksti: Tutustu Sopivaan yhdistyksen nettisivuilla
+kehittaja_linkkiteksti: Tutustu Moniäänisyysmittarin tarinaan Sopiva ry:n nettisivuilla.
 
 kehittaja_linkki: https://www.sopiva.org
 
