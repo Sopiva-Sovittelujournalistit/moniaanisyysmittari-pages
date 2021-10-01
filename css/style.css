@@ -26,7 +26,7 @@ h4, p, a {
     font-family: "Raleway", Serif, serif;   
 }
 
-h4, p {
+h4, p, ul {
     font-size: 11pt;
     font-weight: 100;
     margin: auto;
