@@ -14,6 +14,10 @@ Moniäänisyysmittari perustuu NLP-kieliteknologiaan (Natural Language Processin
 
 
 ## MITÄ MITTARILLA SAA SELVILLE?
+Palvelu tunnistaa datasta haastateltavat; heidän nimensä, nimiin liittyvät tittelit sekä nimiin liittyvät puoluekannat silloin, kun ne on tekstissä mainittu. Lisäksi mittari tunnistaa myös henkilöiden sukupuolen etunimien perusteella. Lisäksi mittarissa on uutistekstien sisältöihin liittyvä hakuominaisuus. Hakuja voidaan tehdä yhdellä hakuehdolla koko aineistoon (esim. ketkä ovat haastatelluimmat henkilöt koko media-arkistossa tai miten haastateltavien sukupuolet jakautuvat) tai eri hakuehtoja yhdistellen (esim. miten eri puolueita edustavat haastateltavat jakautuvat maahanmuuttoaiheisissa jutuissa vuonna 2016).
+Mittarin hakuominaisuudet ovat monilta osin kesken, samoin tulosten luotettavuuden validointiprosessi. 
+
+## JOURNALISTISEN SISÄLLÖN MITTAAMISESTA
 Mediankäyttäjien lukutottumuksia ja käyttäytymistä seurataan tarkkaan. Digitaalisten jakelukanavien ansiosta mediatalot tietävät hyvin tarkkaan, mitä yleisö kuluttaa, mitkä jutut sitouttavat ja minkä parissa kulutetaan aikaa. Tieto yleisön käyttäytymisestä auttaa myös erilaisten suosittelualgoritmien rakentamisessa. 
 On esitetty, että samanlainen digiloikka pitäisi tehdä [journalismin sisällön analysoinnissa kokonaisuutena (suomenlehdisto.fi)](https://suomenlehdisto.fi/kannattaako-naisten-maara-jutuissa-laskea-jos-se-on-aina-kolmasosa/). Yhteiskunnan moniarvoistuessa etenkin journalismin moninaisuudesta ja moniäänisyydestä on tullut sekä poliittisesti että median itseymmärryksessä tärkeä tavoite. Journalistisen sisällön automatisoitu analysointi on ollut kuitenkin hankalaa.
 
