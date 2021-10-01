@@ -5,10 +5,10 @@ title: Hankkeesta
 ---
 
 
-
+## HANKKEEN LÄHTÖKOHDAT
 Mediatalot, uutistoimitukset ja päätoimittajat kertovat mielellään tekevänsä ”moniäänistä journalismia”. Moniäänisyyttä tunnutaan pitävän itsestään selvästi yhtenä laadukkaan uutistyön kriteereistä ja ihanteista. 
 
-Moniäänisyysmittari – journalismin moniäänisyyttä mittaamassa ja kehittämässä -hankkeen keskeiset kysymykset ovat: Millaista mittaustietoa toimitukset kaipaavat journalismin moniäänisyyden kehittämiseen ja miten mittaamista voidaan kehittää hyödyntämällä luonnollisen kielen käsittelyn (NLP) teknologiaa? Miten moniäänisyyden mittaaminen auttaa tekemään entistä parempaa ja moniäänisempää journalismia?
+*Moniäänisyysmittari – journalismin moniäänisyyttä mittaamassa ja kehittämässä* -hankkeen keskeiset kysymykset ovat: Millaista mittaustietoa toimitukset kaipaavat journalismin moniäänisyyden kehittämiseen ja miten mittaamista voidaan kehittää hyödyntämällä luonnollisen kielen käsittelyn (NLP) teknologiaa? Miten moniäänisyyden mittaaminen auttaa tekemään entistä parempaa ja moniäänisempää journalismia?
 
 Käytännöllisessä ympäristössä yhteistyössä toimitusten kanssa kehitetty Moniäänisyysmittari on ainutlaatuinen mittaus- ja analysointipalvelu, joka vastaa toisaalta mediatalojen itsensä tunnistamiin moniäänisyyden tarpeisiin, mutta toisaalta ohjaa toimittajia myös uusien kysymysten ja laajempien journalismin laatua koskevien pohdintojen pariin.
 
