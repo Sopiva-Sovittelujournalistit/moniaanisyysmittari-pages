@@ -23,7 +23,7 @@ esittelyteksti_eka_kuvatiedosto: magnifier.png
 
 esittelyteksti_toka: Selaimella käytettävällä mittarilla voi tehdä hakuja, jotka perustuvat mediatalojen uutisarkistoihin ja tietokantoihin. NLP-teknologiaa hyödyntävä mittari tunnistaa tekstistä haastateltavat henkilöt ja heihin liittyviä tietoja. Mittari mm. listaa haastatelluimmat henkilöt eri aihepiireistä sekä kertoo mm. naisten ja miesten osuuden kaikista haastatelluista, eri puolueita edustavien haastateltujen osuuden sekä erilaisten titteleiden esiintyvyyden. Hankkeen yhtenä keskeisenä kysymyksenä on pohtia, mitä ulottuvuuksia moniäänisyyden laajasta käsitteestä kannattaa mitata. Hakuominaisuuksien kehittäminen onkin kesken.
 
-esittelyteksti_toka_linkkiteksti: Tutustu mittariin
+esittelyteksti_toka_linkkiteksti: Lisää mittarista
 
 esittelyteksti_toka_linkki: ./mittari.html
 
@@ -33,7 +33,7 @@ mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄ
 
 mittarin_kehittaja_teksti: |
   Mittarin demoversion on kehittänyt Sopiva - Sovittelujournalistit ry, jonka juuret ovat Tampereen yliopiston Sovittelujournalismi-nimisessä tutkimushankkeessa. Sopiva ry:n tiimi osallistui mittarilla Helsingin Sanomain Säätiön vuoden 2019 Uutisraivaaja-innovaatiokilpailuun ja pääsi projektilla viiden finalistin joukkoon. Uutisraivaajassa projektin kumppaneina toimivat Yleisradio ja Suomen Tietotoimisto STT.<br><br>
-  Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
+  Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Rahoittajana toimii Media-alan tutkimussäätiö ja Journalistisen kulttuurin edistämissäätiö. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
 
 kehittaja_logo: Sopiva-Bubble-logo.png
 
