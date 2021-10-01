@@ -65,6 +65,10 @@ h4, .mittari-section-div div h4 {
     transition: unset !important;
 }
 
+#menu-paamenu {
+    width: 100%;
+}
+
 li.menu-item {
     border: 1px solid black;
     margin: 1px;
