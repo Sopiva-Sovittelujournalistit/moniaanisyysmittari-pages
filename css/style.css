@@ -66,7 +66,7 @@ h4, .mittari-section-div div h4 {
 }
 
 #menu-paamenu {
-    width: 100%;
+    width: unset;
 }
 
 li.menu-item {
