@@ -37,7 +37,7 @@ mittarin_kehittaja_teksti: |
 
 kehittaja_one_logo: Sopiva-Bubble-logo.png
 
-kehittaja_two_logo: 
+kehittaja_two_logo: logo_TAU_fi-eng_violetti_RGB.png
 
 kehittaja_three_logo: 
 
