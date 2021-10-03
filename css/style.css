@@ -1,4 +1,4 @@
-/* v 1.0.2 */
+/* v 1.0.3 */
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
@@ -372,8 +372,8 @@ li.comment {
     
     .developer-logo {
         padding: 3px;
-        width: 30%;
-        max-width: 30%;
+        width: 28%;
+        max-width: 28%;
     }
 
     .left-slot {
