@@ -41,11 +41,11 @@ kehittaja_two_logo: Sopiva-Bubble-logo.png
 
 kehittaja_three_logo: MTS_logo-v1.jpg
 
-kehittaja_four_logo: jokes-logo.jpg
+kehittaja_four_logo: stt-logo.jpg
 
-kehittaja_five_logo: stt-logo.jpg
+kehittaja_five_logo: kaleva-media-logo.jpg
 
-kehittaja_six_logo: kaleva-media-logo.jpg
+kehittaja_six_logo: jokes-logo.jpg
 
 kehittaja_linkkiteksti: Tutustu Moniäänisyysmittarin tarinaan Sopiva ry:n nettisivuilla.
 
