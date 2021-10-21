@@ -45,7 +45,7 @@ kehittaja_four_logo: stt-logo.jpg
 
 kehittaja_five_logo: kaleva-media-logo.jpg
 
-kehittaja_six_logo: jokes-logo.jpg
+kehittaja_six_logo: jokes-logo-2.jpg
 
 kehittaja_linkkiteksti: Tutustu Moniäänisyysmittarin tarinaan Sopiva ry:n nettisivuilla.
 
