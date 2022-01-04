@@ -2,6 +2,8 @@
 layout: page
 
 title: Hankkeesta
+
+ota_yhteytta: Ota yhteyttä
 ---
 
 
