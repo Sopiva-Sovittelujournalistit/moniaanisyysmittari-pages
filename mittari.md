@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Mittarista
+ota_yhteytta: Ota yhteyttä
 ---
 
 ## MIKÄ ON MONIÄÄNISYYSMITTARI?
