@@ -2,7 +2,7 @@
 layout: page
 header_option: -eng
 title: About The Meter
-taustakuva: logo_moniaanisyysmittari-eng.png
+taustakuva: logo_moniaanisyysmittari-notext.png
 ota_yhteytta: Contact Us
 ---
 
