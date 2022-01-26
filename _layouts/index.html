@@ -1,16 +1,15 @@
 {% include header{{page.header_option}}.html %}
 <!-- BODY STARTS -------------- -->
-    <div class="container min-vh-100 d-flex flex-wrap" id="hero">
-        <div class="position-absolute min-vh-100 video-div" style="background-image: url('./img/{{ page.herokuva }}');">
+    <div class="container" id="hero" style="background-color: rgb(247 234 221); margin: 0 auto;">
+        <div class="video-div" style="text-align: center; margin: 0 auto;">
+        <img src="./img/{{ page.herokuva }}" alt="" style="display: block; ">
         </div>
-        <div style="margin: auto">
+        <div style="margin: auto;">
             <div class="mittari-hero-div d-flex">
                 <img src="img/{{page.sitelogo}}" class="title-logo" alt="" style="margin-left: auto;" />
             </div>
-            <div style="margin-top: 40px; color: white">
+            <div style="margin-top: 40px; color: black; padding-bottom: 10%;">
                 <h2>{{ page.introteksti }}</h2>
-            </div>
-            <div class="text-center">    
             </div>
         </div>
     </div>
