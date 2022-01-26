@@ -5,7 +5,7 @@ header_option: -eng
 
 title: The News Source Diversity Meter
 
-herokuva: tape.jpg
+herokuva: keskustelijat.jpg
 
 herovideo:
 
