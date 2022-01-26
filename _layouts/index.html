@@ -45,6 +45,8 @@
     <div class="container-fluid mittari-section-div" style="padding-top: 20vh;" id="developer">
         <div class="container">
             <h2>{{page.mittarin_kehittaja_otsikko}}</h2>
+            <h4 style="text-align: center;">{{ page.mittarin_kehittaja_teksti }}</h4>
+            <h4 style="text-align: center;"><a href="{{page.kehittaja_linkki}}" target="_blank" rel="noopener">{{page.kehittaja_linkkiteksti}}</a></h4>
             <div class="d-flex justify-content-center flex-wrap">
                 <div class="m-3 developer-logo logo">
                     <img src="img/{{page.kehittaja_one_logo}}" alt="" />
@@ -65,11 +67,9 @@
                     <img src="img/{{page.kehittaja_six_logo}}" alt="" />
                 </div>
             </div>
-                <h4 style="text-align: center;">{{ page.mittarin_kehittaja_teksti }}</h4>
-                <h4 style="text-align: center;"><a href="{{page.kehittaja_linkki}}" target="_blank" rel="noopener">{{page.kehittaja_linkkiteksti}}</a></h4>
-            </div>
         </div>
     </div>
+</div>
 
     {% include footer{{page.header_option}}.html %}
 </div>
