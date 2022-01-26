@@ -85,6 +85,10 @@ li.menu-item a {
     text-decoration: unset;
 }
 
+.bg-picture {
+    width: 50%;
+}
+
 .collapsing {
     -webkit-transition: none;
     transition: none;
