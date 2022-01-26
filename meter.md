@@ -1,0 +1,40 @@
+---
+layout: page
+header_option: -eng
+title: About The Meter
+taustakuva: logo_moniaanisyysmittari.png
+ota_yhteytta: Contact Us
+---
+
+## WHAT IS THE NEWS SOURCE DIVERSITY METER?
+The News Source Diversity Meter is a tool that analyses media companies' content data, such as news archives and online texts. It scans the text and identifies different sources and the information related to them (gender, job title, political leaning), and it provides simple lists and graphical presentations of who has been interviewed in the media. The meter is used internally by media companies, and users only receive information about their own news data.
+
+A demo version of the meter was developed for the Uutisraivaaja 2019 Media Innovation Challenge. At present, the meter identifies interviewees in the material, describes the gender distribution of interviewees, and reveals which political parties have their voices heard. The results can be viewed by article category. Other search features are under development.
+
+
+## WHICH TECHNOLOGIES DOES THE METER USE?
+The News Source Diversity Meter is based on Natural Language Processing (NLP) technology. The text recognition in the demo version of the meter is based on the morphological analysis provided by [libvoikko](https://www.puimula.org/htp/testing/js-libvoikko/js-libvoikko-demo.html), a [list of first names and last names from the Finnish Population Register Centre](https://www.avoindata.fi/data/fi/dataset/none), and manually created analysis rules.
+
+
+## WHAT DOES THE METER REVEAL?
+The service identifies interviewees in the data and creates statistics about their characteristics. The meter identifies the genders of interviewees based on the first names, and it separates the job titles and political leanings associated with each name if they are mentioned in the text. The meter can categorise the results according to the year of publication or the article category, which enables more precise searches to be performed. Searches can be performed on the entire dataset with one search term (such as which people are interviewed the most in the entire media archive or how the genders of interviewees are distributed) or as combinations of search terms (such as the distribution of sources representing the various political parties in articles about immigration in 2016). The search results are mainly anonymous.
+
+Many of the meter's search functions are still under development, as is the process for validating the reliability of the results. 
+
+
+## MEASURING JOURNALISTIC CONTENT
+The reading habits and behaviour of media consumers are closely monitored. Digital distribution channels have provided media companies with a wealth of information on what the public consumes, which articles hold people's attention, and what they spend their time on. Information about the public's behaviour also helps to build various recommendation algorithms.
+
+It has been suggested that a similar leap forward in digital technology should also be made [in the field of journalistic content analysis as a whole (suomenlehdisto.fi)](https://suomenlehdisto.fi/kannattaako-naisten-maara-jutuissa-laskea-jos-se-on-aina-kolmasosa/). As society becomes increasingly pluralistic, the diversity and pluralism of journalism in particular have become significant goals in terms of politics and the self-understanding of the media. However, conducting automated analyses of journalistic content has proven complicated. 
+
+[A study commissioned by the Finnish Ministry of Communications](https://julkaisut.valtioneuvosto.fi/handle/10024/160714) in 2018 found that the available indicators of media diversity reveal the most about the number of media outlets and the diversity of media owners and content providers, as well as the diversity of media consumption for the reasons mentioned above. Conversely, there was no data for measuring the diversity of content, so, ultimately, the proposal was for qualitative indicators based on limited datasets. The same problem has plagued the EU-led [Media Pluralism Monitor](https://cmpf.eui.eu/), which is tasked with evaluating the risks to media diversity in each country. MPM evaluations were developed from 2012 to 2014 and have been carried out since then (since 2015 in [Finland](https://cadmus.eui.eu/bitstream/handle/1814/71945/suomi_results_mpm_2021_cmpf.pdf?sequence=3&isAllowed=y)), and it has been necessary to reduce the number of indicators focusing on journalistic content due to a lack of available data on several occasions.
+
+However, some innovations have arisen as more journalistic data has become available. One good example is the development towards binary gender equality among people appearing in the media. The most traditional player in this field is the [Global Media Monitoring Project](https://whomakesthenews.org/) (GMMP), carried out since 1995. The project monitors the share of women and men among the people appearing in the media worldwide. The researchers conduct the evaluation manually using carefully defined material. A few years ago, Prognosis, a Swedish innovation, automated this calculation using an [Equality Bot](http://www.prognosis.se/GE/Finland/), which reports the proportions of women and men in various online media outlets every day. The first gender meters introduced for media companies themselves hit the news [in 2018 (hs.fi)](https://www.hs.fi/kotimaa/art-2000005594582.html). Examples of the most advanced gender meters include the [Gender Gap Tracker](https://www.sfu.ca/sfunews/stories/2019/03/the-future-of-womens-voices-in-media-maite-taboada.html), a Canadian project based on the same technology as the News Source Diversity Meter. Another similar project is American Press Institute’s tool called [Source Matters](https://sourcematters.com/) which supports automated, customizable source diversity tracking.
+
+The idea behind the News Source Diversity Meter was to find out who can make their voice heard in journalism. The idea is that by making the media's source choices more visible, they become easier to develop. As such, it is not enough to know the proportion of women and men being interviewed. It is just as important – or even more so – to know which experts are invited to explain which topics, which bodies in society have their voices heard the most, and which political parties get to have a say on which issues. It is also relevant to distinguish between the weight attributed to sources' words. For example, does a person appear as one of the sources in a minor story or as the only interviewee in a long-form article?
+
+Quoting [American Press Institute](https://sourcematters.com/about-us/): “Sourcing matters, because building broader and deeper relationships with communities who have been excluded from the news, requires (among other things) talking and listening to a more diverse group of people. The sources journalists choose to quote in their stories affect and reflect whose stories get told, how stories are told, who the news is for, and what communities are served.”
+
+These questions are partly qualitative. A meter based on machine analysis has only a limited ability to answer such questions. Interpretations and conclusions will remain the domain of researchers and media professionals. Quoting [API](https://www.americanpressinstitute.org/publications/api-updates/track-the-diversity-of-your-sources-with-source-matters-an-easy-automated-tool-from-api/) again: “It’s not enough just to track source diversity. It also requires community listening, relationship building, time to develop new sources, training and coaching.”
+
+These questions mentioned above have long been the basic work of journalism research. The News Source Diversity Meter has something unique to offer also for research. The meter delves through big data to automate the basic analysis work, which used to be done manually. This frees up time for qualitative analysis. One feature of the News Source Diversity Meter is that the link to individual articles is retained, so an analysis could even be carried out at the level of individual phrases or expressions. 
