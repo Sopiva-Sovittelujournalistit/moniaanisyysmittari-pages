@@ -138,14 +138,7 @@ li.menu-item:hover li.menu-item a {
     top: 0px;
     left: 0px;
     overflow: hidden;
-    z-index: -1;
-    width: 100%;
-    filter: brightness(0.15);
-    min-width: 100%;
-    min-height: 100vh;
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position-x: 50%;
+    width: 80%;
 }
 
 .video-div video, .video-div img {
