@@ -2,6 +2,7 @@
 layout: page
 
 title: Hankkeesta
+taustakuva: toimittajat.jpg
 
 ota_yhteytta: Ota yhteyttä
 ---
