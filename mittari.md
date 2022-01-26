@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mittarista
-taustakuva: logo_moniaanisyysmittari.png
+taustakuva: logo_moniaanisyysmittari-notext.png
 ota_yhteytta: Ota yhteyttä
 ---
 
