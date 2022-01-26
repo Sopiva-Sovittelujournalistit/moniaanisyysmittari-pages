@@ -64,6 +64,8 @@ sanottua_toka_sitaatti:
 
 sanottua_toka_nimititteli: 
 
-ota_yhteytta: Contact us
+ota_yhteytta: Contact Us
+
+css_tweaks: "body {background-color: rgb(247 234 221) !important; }"
 
 ---
