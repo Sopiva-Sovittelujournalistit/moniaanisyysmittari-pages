@@ -141,11 +141,6 @@ li.menu-item:hover li.menu-item a {
     width: 80%;
 }
 
-.video-div video, .video-div img {
-    min-width: 100%;
-    min-height: 100vh;
-}
-
 .mittari-hero-div {
     width: 100%;
     text-align: center;
