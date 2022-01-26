@@ -63,4 +63,5 @@ sanottua_toka_nimititteli: STT:n vastaava päätoimittaja Minna Holopainen
 
 ota_yhteytta: Ota yhteyttä
 
+css_tweaks: "body {background-color: rgb(247 234 221) !important; }"
 ---
