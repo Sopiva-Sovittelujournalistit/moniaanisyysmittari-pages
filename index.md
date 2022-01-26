@@ -3,7 +3,7 @@ layout: index
 
 title: Moniäänisyysmittari
 
-herokuva: tape.jpg
+herokuva: keskustelijat.jpg
 
 herovideo:
 
