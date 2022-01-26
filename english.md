@@ -31,7 +31,7 @@ esittelyteksti_toka_linkki: ./mittari.html
 
 esittelyteksti_toka_kuvatiedosto: gear.png
 
-mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄT
+mittarin_kehittaja_otsikko: PEOPLE BEHIND THE METER
 
 mittarin_kehittaja_teksti: |
   The demo version of the meter was developed by Sopiva, the Finnish Association for Conciliatory Journalists, whose roots lie in a research project on conciliatory journalism at Tampere University. The Sopiva team entered the meter into the 2019 Uutisraivaaja Media Innovation Challenge run by the Helsingin Sanomat Foundation, and the project finished among the five finalists. The project partners for the Uutisraivaaja challenge were Yleisradio, the Finnish national broadcasting company, and STT, the Finnish News Agency.<br><br>
