@@ -1,11 +1,7 @@
 {% include header{{page.header_option}}.html %}
 <!-- BODY STARTS -------------- -->
     <div class="container min-vh-100 d-flex flex-wrap" id="hero">
-        <div class="position-absolute min-vh-100 video-div">
-            <video autoplay muted loop poster="img/{{ page.herokuva }}" style="overflow: hidden">
-                <source src="{{ page.herovideo }}">
-                Selaimesi ei tue videota.
-            </video>
+        <div class="position-absolute min-vh-100 video-div" style="background-image: url('./img/{{ page.herokuva }}');">
         </div>
         <div style="margin: auto">
             <div class="mittari-hero-div d-flex">
