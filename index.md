@@ -33,7 +33,7 @@ mittarin_kehittaja_otsikko: MITTARIN KEHITTÄJÄT
 
 mittarin_kehittaja_teksti: |
   Mittarin demoversion on kehittänyt Sopiva - Sovittelujournalistit ry, jonka juuret ovat Tampereen yliopiston Sovittelujournalismi-nimisessä tutkimushankkeessa. Sopiva ry:n tiimi osallistui mittarilla Helsingin Sanomain Säätiön vuoden 2019 Uutisraivaaja-innovaatiokilpailuun ja pääsi projektilla viiden finalistin joukkoon. Uutisraivaajassa projektin kumppaneina toimivat Yleisradio ja Suomen Tietotoimisto STT.<br><br>
-  Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Rahoittajana toimii Media-alan tutkimussäätiö ja Journalistisen kulttuurin edistämissäätiö. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tutkijat journalistiikasta ja tietotekniikasta sekä molempien tieteiden professorit. Tutkimusryhmää ohjaa apulaisprofessori Laura Ahva.
+  Nyt Moniäänisyysmittarin kehittäminen on osa Tampereen yliopiston tutkimushanketta, jonka kumppaneina ovat STT ja Kaleva Media. Rahoittajana toimii Media-alan tutkimussäätiö ja Journalistisen kulttuurin edistämissäätiö. Hankkeen parissa työskentelee tutkimusryhmä, johon kuuluvat tietojenkäsittelytieteen professori Jyrki Nummenmaa, journalistiikan tutkija Matleena Ylikoski ja tutkimusapulainen Tuomas Mäkelä tietojenkäsittelytieteestä. Tutkimusryhmää johtaa journalistiikan apulaisprofessori Laura Ahva.
 
 kehittaja_one_logo: logo_TAU_fi-eng_violetti_RGB.png
 
