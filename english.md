@@ -9,7 +9,7 @@ herokuva: keskustelijat.jpg
 
 herovideo:
 
-sitelogo: logo_moniaanisyysmittari.png
+sitelogo: logo_moniaanisyysmittari-eng.png
 
 introteksti: A tool based on data analysis of media content to reveal which groups have their voices heard in the world of journalism. The News Source Diversity Meter supports the development of diversity in journalism and the media.
 
