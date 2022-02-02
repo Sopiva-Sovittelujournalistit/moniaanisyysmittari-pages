@@ -1,4 +1,4 @@
-/* v 1.0.3 */
+/* v 1.0.4 */
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
@@ -138,12 +138,13 @@ li.menu-item:hover li.menu-item a {
     top: 0px;
     left: 0px;
     overflow: hidden;
-    width: 80%;
+    width: 100%;
 }
 
 .mittari-hero-div {
-    width: 100%;
+    width: 50%;
     text-align: center;
+    margin: auto;
 }
 
 .mittari-section-div {
