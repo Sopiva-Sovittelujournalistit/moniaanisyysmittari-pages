@@ -1,4 +1,4 @@
-/* v 1.0.5 */
+/* v 1.0.7 */
 @import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Raleway&display=swap');
 
@@ -20,7 +20,7 @@ h2, button {
     font-size: 16pt;
 }
 
-h4, p, a {
+h4, p, a, center {
     font-family: "Raleway", Serif, serif;   
 }
 
@@ -97,7 +97,7 @@ li.menu-item a {
 
 #hero {
     text-align: center;
-    min-height: 100vh;
+    min-height: unset;
 }
 
 @media screen and (max-width: 991px) {
@@ -115,12 +115,6 @@ li.menu-item a {
         top: 0%;
         left: 0;
     }
-}
-
-@media screen and (min-width: 992px) {
-    .show {
-
-    } 
 }
 
 button {
@@ -156,7 +150,7 @@ li.menu-item:hover li.menu-item a {
 
 .mittari-section-div .container {
     padding-top: 2vh;
-    padding-bottom: 14vh;
+    padding-bottom: 4vh;
 }
 
 .background {
@@ -305,42 +299,10 @@ blockquote {
     margin-bottom: 30px;
 }
 
-/* COMMENTS SECTION */
-#respond textarea, #respond input {
-    width: 100%;
-}
- 
-#comments {
-    margin-top: 100px;
-    font-size: 100%;
-}
- 
-.comment-respond {
-    text-align: center;
-}
- 
-.comment-form-comment label {
-    display: block;
-}
-
-.logged-in-as {
-    text-align: center;
-}
-
-li.comment {
-    list-style-type: none;
-    text-align: center;
-    padding-top: 30px;
-}
-
-.comment-author.vcard img {
-    max-width: 100px;
-}
- 
-
 @media screen and (min-width: 576px) {
-.card {
-    width: unset;
+    .card {
+        width: unset;
+    }
 }
 
 /* TABLET */
@@ -350,7 +312,7 @@ li.comment {
     }
     
     h2 {
-        font-size: 25pt;
+        font-size: 18pt;
     }
     
     h4 {
@@ -366,7 +328,7 @@ li.comment {
     
     .service-logo {
         padding: 20px;
-        max-width: 120px;
+        max-width: 96px;
     }
     
     .developer-logo {
@@ -397,7 +359,7 @@ li.comment {
     }
     
     h2 {
-        font-size: 25pt;
+        font-size: 20pt;
     }
     
     h4 {
@@ -416,7 +378,7 @@ li.comment {
     }
 
     .mittari-section-div {
-        padding-top: 30px;
+        padding-top: 15px;
     }
 
     li.menu-item a {
@@ -435,7 +397,7 @@ li.comment {
     }
     
     h2 {
-        font-size: 30pt;
+        font-size: 23pt;
     }
     
     h4 {
